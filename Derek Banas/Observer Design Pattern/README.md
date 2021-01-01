@@ -16,5 +16,7 @@ When the framework we writes and needs to be enhanced in future with new observe
 
 https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=4
 
+http://www.newthinktank.com/2012/08/observer-design-pattern-tutorial/
+
 The Observer pattern is a software design pattern in which an object, called the subject (Publisher), maintains a list of its dependents,
 called observers (Subscribers), and notifies them automatically of any state changes, usually by calling one of their methods.
