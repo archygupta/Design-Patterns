@@ -65,12 +65,12 @@ class CompositeAccount extends Account {
 
 public class CompositeExample {
 	public static void main(String args[]) {
-		CompositeAccount component = new CompositeAccount();
+	CompositeAccount component = new CompositeAccount();
 		
-    component.addAccount(new DepositAccount("DA001", 100));
-		component.addAccount(new SavingAccount("DA002", 200));
-		component.addAccount(new SavingAccount("SA001", 300));
+   	component.addAccount(new DepositAccount("DA001", 100));
+    	component.addAccount(new SavingAccount("DA002", 200));
+	component.addAccount(new SavingAccount("SA001", 300));
 
-		System.out.println(component.getBalance());
+	System.out.println(component.getBalance());
 	}
 }
