@@ -1,4 +1,13 @@
-package com.codingsimplified.bridge;
+/*
+ * Structural
+ * 
+ * Used when we've hiearchies in both interfaces as well as implementationd & we want
+ * to hide implementatio from client
+ * 
+ * it decouple abstraction from implementation
+ */
+ 
+ package com.codingsimplified.bridge;
 
 abstract class TV {
 	Remote remote;
