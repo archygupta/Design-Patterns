@@ -1,4 +1,13 @@
-package com.codingsimplified.builder;
+/*
+ *Creational Design Pattern
+ * 
+ * Too many parameters in constructor, its difficult to maintain the order
+ * 
+ * -- with this, no need to maintain the order
+ * no need of passing all parameters, only required ones(generally otherwise we send null for optional parameters)
+ */
+ 
+ package com.codingsimplified.builder;
 
 class Vehicle {
 	// mandatory params
