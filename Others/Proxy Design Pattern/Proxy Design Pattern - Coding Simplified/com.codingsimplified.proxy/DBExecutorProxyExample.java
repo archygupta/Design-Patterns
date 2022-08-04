@@ -1,4 +1,9 @@
-//https://www.youtube.com/watch?v=AB0gaAg9jwI&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=5
+/*
+ * Improves structure of the java code
+ * work with interfaces, gives u a good interface
+ */
+ 
+ //https://www.youtube.com/watch?v=AB0gaAg9jwI&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=5
 
 package com.codingsimplified.proxy;
 
