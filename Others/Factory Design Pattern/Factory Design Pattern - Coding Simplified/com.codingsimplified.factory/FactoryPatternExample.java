@@ -1,4 +1,14 @@
-//https://www.youtube.com/watch?v=jcGSowIzmzM&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=2
+/*
+ * *Creational Design Pattern
+ *
+ * Responsible for returning instance of all subClasses.
+ * provide abstraction between client class and implementation..
+ * for vehicle as parent and car and bike as subclass. if we create direct object of subclasses and use car c= new  Car(), Bike b = new Bike(). 
+ * If the name of Car class changes, we have to update everywhere in client class, whereas with factory patter, we can get away by just updating it in factory class.
+ * 
+ */
+ 
+ //https://www.youtube.com/watch?v=jcGSowIzmzM&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=2
 
 package com.codingsimplified.factory;
 
