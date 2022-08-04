@@ -1,3 +1,18 @@
+/*
+ * Structural
+ * 
+ * Adaptor means adapting like how charging adaptor helps us with charger in different countries.
+ * 
+ * Allows existing class to be used with others(Adaptee) without modifying their source code
+ * WenDriver executor Adapter
+ * 
+ * Interface: Webdriver
+ * Interface Implementation : ChromeDriver, WebDriverAdapter
+ * Adapter: WebDriverAdapter
+ * Adaptee: ieDriver
+ * Client: Adapter
+ */
+
 package com.codingsimplified.adapter;
 
 interface Driver {
