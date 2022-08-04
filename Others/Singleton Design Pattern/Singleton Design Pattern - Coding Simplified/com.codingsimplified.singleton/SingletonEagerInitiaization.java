@@ -1,4 +1,12 @@
-//https://www.youtube.com/watch?v=VGLjQuEQgkI&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=1
+/*
+ * 
+ *Creational Design Pattern
+ *
+ *
+ *Only one object of class should exist, logging, cache session etc. are examples
+ */
+ 
+ //https://www.youtube.com/watch?v=VGLjQuEQgkI&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=1
 
 package com.codingsimplified.singleton;
 
