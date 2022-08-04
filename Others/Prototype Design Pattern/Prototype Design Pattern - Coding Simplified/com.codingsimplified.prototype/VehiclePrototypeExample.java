@@ -1,4 +1,10 @@
-//https://www.youtube.com/watch?v=MYe5NSmFU_c&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=4
+/*
+ * Creational Design Pattern
+ *
+ * Avoid multiple creation of same object
+ */
+ 
+ //https://www.youtube.com/watch?v=MYe5NSmFU_c&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=4
 
 package code.codingsimplified.prototype;
 
