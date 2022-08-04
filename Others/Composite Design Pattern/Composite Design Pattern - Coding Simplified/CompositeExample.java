@@ -1,3 +1,13 @@
+/*
+ * Structural design pattern
+ * 
+ * result from more than one class. individual obj -> leaf, composition f object - > composite
+ * 
+ * four components : component(Account), leaf(Saving and Deposit), composite(CompositeAccount), client(Client class)
+ * 
+ * Individual class will work as well as composite
+ */
+
 //https://www.youtube.com/watch?v=AIyTWtOqrfs&list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx&index=7
 
 package com.codingsimplified.composite;
