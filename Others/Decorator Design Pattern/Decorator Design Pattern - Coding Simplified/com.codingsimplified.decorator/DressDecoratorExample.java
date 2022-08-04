@@ -1,4 +1,10 @@
-package com.codingsimplified.decorator;
+/*
+ * Structural
+ * 
+ * Modify functionality at runtime
+ */
+ 
+ package com.codingsimplified.decorator;
 
 interface Dress {
 	public void assemble();
