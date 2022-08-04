@@ -1,4 +1,19 @@
-package com.codingsimplified.flyweight;
+
+/*
+ * Structural
+ * used when creation of more than 10^5 objects is needed, to reduce creation of object
+ * Create map and store object
+ * 
+ * Interface: contain common methods, Employee
+ * Object: Individual class: Developer, Tester
+ *Intrinsic Properties: Which are same for an object  (bug -> dev: fixing bug, tester: finding bug)
+ *Extrinsic Properties: which are different for a object (skills-> both dev and tester have different skills
+ *We use factory to use return object: employeefactory
+ *client:client class
+ *
+ */
+ 
+ package com.codingsimplified.flyweight;
 
 import java.util.HashMap;
 import java.util.Random;
